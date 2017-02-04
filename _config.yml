@@ -1,18 +1,13 @@
 # Site settings
 title: Fireflies.ai | Productivity Management
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
-author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+description: "The Slack Bot Blog"
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: http://localhost:4000/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
-destination: ./_site
-permalink: /:title
+destination:
+permalink:
 paginate: 8
 paginate_path: /page:num/
 
