@@ -3,7 +3,7 @@ title: Fireflies.ai | Productivity Management
 description: "The Slack Bot Blog"
 
 # Build settings
-baseurl: http://localhost:4000/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination:
