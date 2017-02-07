@@ -1,0 +1,25 @@
+---
+title: The Simplest Way to Manage Tasks in Slack
+---
+
+An onboarding guide for those that use Slack and want to leverage Fireflies.ai for intelligent workflows.
+Let’s keep this short. The reason you decided to give Fireflies a try is because you want to make tasks inside your conversations and turn messages into tasks without having to leave Slack.
+Fireflies is the team assistant that helps you create, route, and manage tasks within seconds. Here’s how:
+
+Instantly add tasks by saying FF: before each message.
+Assign tasks to someone by tagging the person in the message.
+FF: Fix Website @Sam
+
+One emoji to rule them all.
+The + (plus) emoji has a lot of magical powers when you use Fireflies.
+
+React to any message with a + and that message will become a task.
+When you create tasks with FF: or mark messages with a + emoji, Fireflies is getting smarter. That’s when the AI kicks in!
+
+Fireflies will auto-suggest tasks by reacting to messages with a +.
+clicking the + emoji that Fireflies suggested will make a task.
+The more tasks you create, the more accurate the system gets.
+
+Type @Fireflies to view or complete tasks within Slack.
+
+Bonus: Route any tasks that Fireflies creates to platforms like Trello, Asana, JIRA, Salesforce, Gcal
