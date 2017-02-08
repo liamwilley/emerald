@@ -22,11 +22,11 @@
 }
 
 #nav {
-  @include nav-position(top);
+  @include nav-position(right);
 }
 
 #nav-left {
-  @include nav-position(bottom);
+  @include nav-position(left);
 }
 
 /* Toggle class to open menu */
