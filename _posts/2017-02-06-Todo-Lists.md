@@ -2,7 +2,7 @@
 title: When To-Do Lists Stop Working
 ---
 
-<img src="/fireflies.ai/fireflies_blog/img/To-do-list.png" style="width:304px;height:228px;">
+<img src="fireflies.ai/fireflies_blog/img/To-do-list.png">
 
 Don’t get me wrong, I love making to-do lists and using tools to manage tasks, but do most of them work in the long run?
 There are well designed apps out there we can use and sometimes sticky notes do just fine for many of us. If you are a student, working professional, or a busy parent, having a reminder list keeps you on track.
