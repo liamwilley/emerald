@@ -27,6 +27,7 @@ $text-color: #727272;
 html {
 	background-color: $background-color;
 	font-size: 16px;
+  font: Avenir Roman;
 	@media (min-width: 940px) {
 		font-size: 18px;
 	}
