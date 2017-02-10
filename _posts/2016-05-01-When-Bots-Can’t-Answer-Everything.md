@@ -1,5 +1,5 @@
 ---
-title: 2016-05-01-When-Bots-Can’t-Answer-Everything
+title: When Bots Can’t Answer Everything
 ---
 
 We’ve entered an era of chat assistants. Conversation as a platform is here thanks to some major moves by Facebook, Microsoft, Slack, Telegram, Kik, etc. Yeah yeah, we get it already. This is old news, tell me something new, you say.

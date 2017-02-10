@@ -1,5 +1,5 @@
 ---
-title: 2016-04-04-A-Letter-To-The-Future
+title: A Letter To The Future
 ---
 
 Dear Future Sam….

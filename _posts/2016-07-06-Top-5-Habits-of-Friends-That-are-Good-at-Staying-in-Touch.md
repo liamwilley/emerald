@@ -1,5 +1,5 @@
 ---
-title: 2016-07-06-Top-5-Habits-of-Friends-That-are-Good-at-Staying-in-Touch
+title: Top 5 Habits of Friends That are Good at Staying in Touch
 ---
 
 Let’s face it. Keeping in touch is hard work. Even though we meet so many cool people through our lives, it’s difficult to be constantly caught up on how their lives are going. This is the case for most of us, even despite the fact that we genuinely want to know. Various social channels like Facebook, Twitter and LinkedIn help us implicitly catch up with our contacts. If we are lucky, we may catch a relationship status change or some major accomplishment among the stream of other junk. However the vast majority of the time, we either miss an event we care about or there is simply no event. Our favorite people become suppressed by meaningless clutter.

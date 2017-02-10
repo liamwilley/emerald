@@ -1,5 +1,5 @@
 ---
-title: 2016-09-26-How-We-Accidentally-Built-an-AI-Assistant-That-We-Fell-in-Love-With
+title: How We Accidentally Built an AI Assistant That We Fell in Love With
 ---
 
 My co-founder, Sam Udotong, and I had just moved to SF. We were all set to embark on our startup journey. I mean why else would we pack our bags and buy a one-way ticket to the bay area. At the time, we were attempting to build an email management tool for enterprise businesses. We were reaching out to a lot of people during those initial days because we needed to start somewhere within the tech community.

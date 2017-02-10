@@ -1,5 +1,5 @@
 ---
-title: 2016-02-26-How-Can-We-Actually-Stay-Connected-Online?
+title: How Can We Actually Stay Connected Online?
 ---
 
 How can we actually stay connected online?

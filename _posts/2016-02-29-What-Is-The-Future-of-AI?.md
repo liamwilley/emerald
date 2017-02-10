@@ -1,5 +1,5 @@
 ---
-title:2016-02-29-What-Is-The-Future-of-AI?
+title: What Is The Future of AI?
 ---
 
 Last weekend I had the great opportunity to pitch my startup, Fireflies AI, at the MIT Tech Conference. This year’s topic was “The Rise of Artificial Intelligence.” In attendance, were some of the brightest and greatest minds in AI. From Ray Kurzweil to Rob High the day was filled with great speakers and panels on what the future would look like. Leading experts and professors in the field held exciting discussions on what the world might look like in 2025 and how to make sure AI doesn’t harm us.

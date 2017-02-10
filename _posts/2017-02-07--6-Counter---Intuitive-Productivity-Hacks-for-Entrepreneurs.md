@@ -1,5 +1,5 @@
 ---
-title: 2017-02-07--6-Counter---Intuitive-Productivity-Hacks-for-Entrepreneurs.md
+title: 6 Counter-Intuitive Productivity Hacks for Entrepreneurs
 ---
 
 Bet you haven’t tried this stuff yet

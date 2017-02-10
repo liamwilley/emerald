@@ -1,5 +1,5 @@
 ---
-title: 2016-08-06-How-Consumer-Drones-Will-Be-Integrated-Into-Everyday-Life
+title: How Consumer Drones Will Be Integrated Into Everyday Life
 ---
 
 When many people hear the word “drone” they immediately think of the flying machines that today’s governments use to remotely monitor, attack and kill people. The current usage of the technology is tragic, as it causes pain and suffering around the world. However, I would argue that drones do not kill people; people kill people. The upsides of the technology can far outweigh the downsides if it is put in the hands of the right people.

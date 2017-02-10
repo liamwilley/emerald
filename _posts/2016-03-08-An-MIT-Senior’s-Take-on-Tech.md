@@ -1,5 +1,5 @@
 ---
-title: 2016-03-08-An-MIT-Senior’s-Take-on-Tech
+title: An MIT Senior’s Take on Tech
 ---
 
 What is tech going to look like in 2020?

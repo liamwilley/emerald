@@ -1,5 +1,5 @@
 ---
-title: 2017-01-19-From-Start-to-Startup:-Sam,-Krish,-and-Fireflies.ai
+title: From Start to Startup: Sam, Krish, and-Fireflies.ai
 ---
 
 A hundred un-read e-mails. Six notifications from the Slack #deliverables channel. One text from your manager on your work phone asking for an 8:30 A.M. team meeting.

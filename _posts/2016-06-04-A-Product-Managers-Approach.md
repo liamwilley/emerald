@@ -1,5 +1,5 @@
 ---
-title:2016-06-04-A-Product-Managers-Approach
+title: A Product Managers Approach
 ---
 
 When you ask people what a product manager does, you’ll sometimes end up more confused after asking. Quite simply, there is a lot on your plate, and you’re at the intersection of diverse areas within a company or team.

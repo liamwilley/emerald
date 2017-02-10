@@ -1,5 +1,5 @@
 ---
-title: 2016-05-27-Rocky-Road
+title:  Rocky Road
 ---
 
 It’s one great Ice Cream flavor. One of the most fun songs to try singing by The Dubliners. And it’s something everyone who works on a startup experiences.

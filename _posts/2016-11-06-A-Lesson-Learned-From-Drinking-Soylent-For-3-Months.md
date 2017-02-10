@@ -1,5 +1,5 @@
 ---
-title: 2016-11-06-A-Lesson-Learned-From-Drinking-Soylent-For-3-Months
+title: A Lesson Learned From Drinking Soylent For 3 Months
 ---
 
 Spoiler: it isn’t related to stomach problems.

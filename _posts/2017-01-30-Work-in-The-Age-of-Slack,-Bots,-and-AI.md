@@ -1,5 +1,5 @@
 ---
-title: 2017-01-30-Work-in-The-Age-of-Slack,-Bots,-and-AI
+title: Work in The Age of Slack, Bots, and AI
 ---
 
 Human beings are lazy — I know I am! But work is just one of those “facts of life”. We might not be able to get rid of work entirely, but can we at least get rid of the things which really ought not be part of ‘work’ in the first place?

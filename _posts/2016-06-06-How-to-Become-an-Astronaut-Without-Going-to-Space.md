@@ -1,5 +1,5 @@
 ---
-title: 2016-06-06-How-to-Become-an-Astronaut-Without-Going-to-Space
+title: How to Become an Astronaut Without Going to Space
 ---
 
 I always wanted to be an astronaut. My dad worked for NASA as an engineer when I was 10 years old, and from then on, I was hooked. Like every other little kid, I was fascinated with the endlessness of space and the possibility of life on other planets. Watching movies that had references to space like Toy Story and Star Wars left me dreaming for weeks. In second grade, I took this a step further and began to learn everything I could about rockets, airplanes and propulsion systems. I even designed a hover board for my town’s Invention Convention and won an award.
