@@ -2,6 +2,8 @@
 title: 2016: THE FUTURE OF USER EXPERIENCES
 ---
 
+![Test](/fireflies_blog/img/futureUserExper1.jpeg "Test")
+
 What’s happened with UX?
 
 We’ve lived through a decade where great User Experiences (UX) and User Interfaces (UI) have defined high quality apps, websites, and consumer products. Apple has embraced the Flat UI standard while Google has championed Material Design. Facebook evolved across all platforms and developed one of the most beautiful messaging interfaces that 600 million people use. Airbnb was founded by design students who created a compelling vision and reinvented a marketplace using design thinking. These are just a few of the many companies that have validated that the way users touch, feel, and navigate through an app contributes to the success of the product.
