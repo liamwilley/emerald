@@ -1,5 +1,5 @@
 ---
-title: 2016: THE FUTURE OF USER EXPERIENCES
+title: 2016 - THE FUTURE OF USER EXPERIENCES
 ---
 
 ![Test](/fireflies_blog/img/futureUserExper1.jpeg "Test")
