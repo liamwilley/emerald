@@ -27,7 +27,7 @@ $text-color: #727272;
 html {
 	background-color: $background-color;
 	font-size: 16px;
-  font: Avenir Roman;
+  font: open sans;
 	@media (min-width: 940px) {
 		font-size: 18px;
 	}
@@ -40,7 +40,7 @@ html {
 a {
 	color: $main-color;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: normal;
 	&:hover,
 	&:focus {
 		color: darken($main-color, 5%);
