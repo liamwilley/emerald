@@ -27,7 +27,7 @@ $text-color: #727272;
 html {
 	background-color: $background-color;
 	font-size: 16px;
-  font: open sans;
+  font-family: 'Open Sans', sans-serif;
 	@media (min-width: 940px) {
 		font-size: 18px;
 	}

@@ -8,7 +8,7 @@
     color: $background-color;
     padding: 0.33334em 0;
     font-size: 1.5em;
-    font-weight: 400;
+    font-weight: normal;
     @media (min-width: 940px) {
       font-size: 1em;
     }
@@ -17,7 +17,7 @@
     }
   }
   span {
-      font-weight: 200;
+      font-weight: normal;
     }
 }
 
@@ -132,8 +132,8 @@
   	display: block;
   }
   h1 {
-  	font-family: 'Signika', sans-serif; //Emerald logo font
-    font-weight: 600;
+  	font-family: 'Open Sans', sans-serif; 
+    font-weight: normal;
   }
   &:after {
   	display: block;
