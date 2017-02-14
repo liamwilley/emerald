@@ -1,5 +1,5 @@
 ---
-title: FROM START TO STARTUP- SAM, KRISH, AND FIREFLIES.AI
+title: FROM START TO STARTUP - SAM, KRISH, AND FIREFLIES.AI
 ---
 
 A hundred un-read e-mails. Six notifications from the Slack #deliverables channel. One text from your manager on your work phone asking for an 8:30 A.M. team meeting.
