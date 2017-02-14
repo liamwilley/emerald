@@ -1,5 +1,5 @@
 ---
-title: Steps to Turn Your Idea Into Reality
+title: STEPS T0 TURN YOUR IDEA INTO REALITY
 ---
 
 I have this great idea — how do I make it happen?

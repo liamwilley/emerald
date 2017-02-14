@@ -1,5 +1,5 @@
 ---
-title: Why The Best Startups Create Powerful Communities
+title: WHY THE BEST STARTUPS CREATE POWERFUL COMMUNITIES
 ---
 
 Building a product is the easy part. Growing a community of passionate people around it is truly much harder. Having a core group of users who join you on the startup journey through the highs and lows is what motivates the team to keep going.

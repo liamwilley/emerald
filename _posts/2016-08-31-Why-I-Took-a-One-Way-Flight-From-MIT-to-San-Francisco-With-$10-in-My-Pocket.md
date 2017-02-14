@@ -1,5 +1,5 @@
 ---
-title:  Why I Took a One Way Flight From MIT to San Francisco With $10 in My Pocket
+title: WHY I TOOK A ONE WAY FLIGHT FROM MIT TO SAN FRANCISCO WITH $10 IN MY POCKET
 ---
 
 “Welcome aboard JetBlue Airways flight 9128 non-stop service from Boston to San Francisco. Our flight time will be 6 hours and 12 minutes. At this time, make sure your seatbelts are correctly fastened and that small portable devices are set to airplane mode…”

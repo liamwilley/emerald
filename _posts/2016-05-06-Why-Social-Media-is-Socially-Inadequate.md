@@ -1,5 +1,5 @@
 ---
-title: Why Social Media is Socially Inadequate
+title: WHY SOCIAL MEDIA IS SOCIALLY INADEQUATE
 ---
 
 Social media sites such as Facebook, Twitter, Instagram and LinkedIn were designed for the purpose of reaching a lot of people quickly. Creating an account on a social media site grants you access to a supposed large network of friends, acquaintances and strangers to connect with. In fact, if there is nobody on the network at all, the social media site fails. Its job is to cultivate a breadth of relationships. Social media sites are meant to connect you to a wide range of people, and this has worked very well over the last decade.

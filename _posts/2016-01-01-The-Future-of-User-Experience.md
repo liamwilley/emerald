@@ -1,5 +1,5 @@
 ---
-title: 2016: The Future of User Experience
+title: 2016: THE FUTURE OF USER EXPERIENCES
 ---
 
 What’s happened with UX?

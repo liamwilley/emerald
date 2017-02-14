@@ -1,5 +1,5 @@
 ---
-title: 6 Productivity Hacks For The Ambitious Entrepreneur
+title: 6 PRODUCTIVITY HACKS FOR THE AMBITIOUS ENTREPRENEUR
 ---
 
 kyrocket productivity without needing to learn a new tool

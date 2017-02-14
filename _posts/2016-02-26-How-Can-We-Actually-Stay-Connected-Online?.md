@@ -1,5 +1,5 @@
 ---
-title: How Can We Actually Stay Connected Online?
+title: HOW CAN WE ACTUALLY STAY CONNECTED ONLINE?
 ---
 
 How can we actually stay connected online?

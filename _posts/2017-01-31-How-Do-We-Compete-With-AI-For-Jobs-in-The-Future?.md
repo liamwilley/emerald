@@ -1,5 +1,5 @@
 ---
-title: How Do We Compete With AI For Jobs in The Future?
+title: HOW DO WE COPETE WITH AI FOR JOBS IN THE FUTURE?
 ---
 
 In what is the debate of the century, I keep getting asked this question at conferences and meetings with potential students, job-seekers, and business owners. I wish the answer was simple, but like most things in life, nothing is truly binary. 

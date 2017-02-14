@@ -1,5 +1,5 @@
 ---
-title: What is Tech Going to Look Like in 2020?
+title: WHAT IS TECH GOING TO LOOK LIKE IN 2020?
 ---
 
 As graduation approaches, I’ve desired to think back on my years at MIT and reflect on how my outlook on tech has changed.

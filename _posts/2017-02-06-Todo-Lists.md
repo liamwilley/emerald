@@ -1,5 +1,5 @@
 ---
-title: When To Do Lists Stop Working
+title: WHEN TO DO LISTS STOP WORKING
 ---
 
 Don’t get me wrong, I love making to-do lists and using tools to manage tasks, but do most of them work in the long run?

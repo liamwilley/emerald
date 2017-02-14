@@ -1,5 +1,5 @@
 ---
-title: 6 Counter-Intuitive Productivity Hacks for Entrepreneurs
+title: 6 COUNTER-INTUITIVE PRODUCTIVITY HACKS FOR ENTREPRENEURS
 ---
 
 Bet you haven’t tried this stuff yet

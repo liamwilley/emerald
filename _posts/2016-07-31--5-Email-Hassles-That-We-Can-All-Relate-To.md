@@ -1,5 +1,5 @@
 ---
-title: 5 Email Hassles That We Can All Relate To
+title: 5 EMAIL HASSLES THAT WE CAN ALL RELATE TO
 ---
 
 In the era of Slack and Group Messaging, many will say email is dead. Both you and I know this is far from the truth.

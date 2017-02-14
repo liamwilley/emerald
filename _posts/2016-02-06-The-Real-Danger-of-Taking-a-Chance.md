@@ -1,5 +1,5 @@
 ---
-title: 2016-02-06-The-Real-Danger-of-Taking-a-Chance
+title: THE REAL DANGER OF TAKING A CHANCE
 ---
 
 I’ve recently been thinking about the implications that arise from society’s views on “taking chances” and what they really mean for me personally. Taking a chance is usually seen as foolish or brave, depending on who you’re talking to and how good of a mood they’re in. It means that you’re putting your neck in an uncomfortable place and unnecessarily exposing yourself to the cold. At the same time, it can lead to outcomes that completely change your life.

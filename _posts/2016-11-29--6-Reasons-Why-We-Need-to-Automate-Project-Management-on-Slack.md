@@ -1,5 +1,5 @@
 ---
-title: 6 Reasons Why We Need to Automate Project Management on Slack
+title: 6 REASONS WHY WE NEED TO AUTOMATE PROJECT MANAGEMENT ON SLACK
 ---
 
 For all the PMs, Engineering Managers, and Team Leads out there, this one is for you.

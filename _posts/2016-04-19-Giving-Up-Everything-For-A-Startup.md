@@ -1,5 +1,5 @@
 ---
-title: Giving Up Everything For A Startup
+title: GIVING UP EVERYTHING FOR A STARTUP
 ---
 
 After spending the last sixteen years in Philly, I packed my bags and moved to Boston on Monday. You’re probably wondering why, for those who do know me there’s an obvious answer. I moved to work on Fireflies, a startup I’ve been working on with some of my closest friends. Let me take a step back and tell you a story about what it felt like to make the move.

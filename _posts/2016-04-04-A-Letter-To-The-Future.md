@@ -1,5 +1,5 @@
 ---
-title: A Letter To The Future
+title: A LETTER TO THE FUTURE
 ---
 
 Dear Future Sam….
