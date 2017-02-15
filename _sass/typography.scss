@@ -4,21 +4,21 @@
 //
 
 body {
-	font-family: 'Source Sans Pro', sans-serif;
-	letter-spacing: 0.01em;
+	font-family: 'Open sans', sans-serif;
+	letter-spacing: -0.003em;
 }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
 p, ul, ol {
 	font-size: 1em; /* 16px */
-	line-height: 1.5em; /* 24px/16px */
+	line-height: 1.58em; /* 24px/16px */
 	margin-bottom: 1.5em; /* 24px/16px */
 }
 
 h1 {
 	font-size: 2.25em; /* 36px/16px */
-	line-height: 1.3333em; /* 48px/36px */
+	line-height: 1.58em; /* 48px/36px */
 	padding: 0.33335em 0; /* 12px/36px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
